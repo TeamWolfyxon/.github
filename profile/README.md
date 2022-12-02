@@ -1,3 +1,2 @@
-# WolfyNerds
-We're just a small group of artists and programmers who can make games.  
-Btw. we changed our name over 5 times (im tired ~Wolfyxon)
+# TeamWolfyxon
+Hi, Wolfyxon there. I don't work alone all the time. In this organization you will find all the repositories that were created with the help of my friends.
